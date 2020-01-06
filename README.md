@@ -2,13 +2,13 @@
 A simple, easy to use, uptime status bot for Discord!
 
 ### Public Updates
-[!](https://cdn.discordapp.com/attachments/662110077955604481/663853562643742760/public.png)
+[![](https://cdn.discordapp.com/attachments/662110077955604481/663853562643742760/public.png)
 
 ### Admin Updates
-[!](https://cdn.discordapp.com/attachments/662110077955604481/663853585045651477/admin_notification.png)
+[![](https://cdn.discordapp.com/attachments/662110077955604481/663853585045651477/admin_notification.png)
 
 ### Error Notifications
-[!](https://media.discordapp.net/attachments/662110077955604481/663853599989825556/admin.png?width=609&height=474)
+[![](https://media.discordapp.net/attachments/662110077955604481/663853599989825556/admin.png?width=609&height=474)
 
 ## Deployment
 

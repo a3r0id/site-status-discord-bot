@@ -1,6 +1,8 @@
 # discord-uptime-client
 A simple, easy to use, uptime status bot for Discord!
 
+[![Public](https://cdn.discordapp.com/attachments/662110077955604481/663853562643742760/public.png)
+
 ## Deployment
 
 * Windows 10/8/7

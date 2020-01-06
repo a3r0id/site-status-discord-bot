@@ -13,8 +13,14 @@ class data:
     #Your URL To Check
     my_url = "https://host-info.net"
 
-    #Your Bots Token
-    bot_token = ""
+    #Your Bots Token - For security reasons, use "token.txt"!!!
+    try:
+        with open("token.txt", "r") as token:
+            your_token = token.read()
+        token = your_token
+    except:
+        wait_to_exit = input("FileError: 'token.txt' was not found or is Invalid! Be sure its in your current directory!")
+        exit(0)
 
     #Bots Name To Display
     bot_name = "Host-Info Uptime Client"
@@ -37,6 +43,3 @@ class data:
     #blue = 0x011efe
     #purple = 0xfe00f6
         
-
-
-    

@@ -1,5 +1,5 @@
 # discord-uptime-client
-A simple bot for periodically checking your website's stats including port used on http request ,http request latency, http status code & more from any remote machine using Python3 requests module.
+A simple bot for periodically checking your website's stats including port used on http request, http request latency, http status code & more from almost any remote machine using Python3 requests module.
 
 ### Public Updates
 ![](https://cdn.discordapp.com/attachments/662110077955604481/663853562643742760/public.png)

@@ -1,7 +1,11 @@
 import discord
 from os import name, system
 from time import sleep
-from config import data
+try:
+    from config import data
+except Exception as oof:
+    ex=input(f"Error in Config File, Please fix then try again. Be sure that all files are in the same directory and that your 'token.txt' file is there as well.\n\n{str(oof)}")
+    exit(0)
 from client_hook import logging
 from host_check import host
 from create_embed import embed_content
@@ -164,8 +168,6 @@ Public Updates Server:
             
 
 client.run(data.bot_token) 
-
-
 
                 
                 

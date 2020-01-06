@@ -32,7 +32,7 @@ A simple bot for periodically checking your website's stats including port used 
 * Important: *You need to be sure all files remain in the same folder at all times.*
 * Important: *Emojis/Special Fonts in your channel names may cause issues! You will be prompted if so.*
 
- Enjoy!
+
 
 ### Linux
 
@@ -41,3 +41,7 @@ A simple bot for periodically checking your website's stats including port used 
 * Start bot.py
 * Done!
 * ALSO, you can run `build.sh` to create a python3 executable if you please, it will work.
+ 
+ 
+ 
+## Enjoy!

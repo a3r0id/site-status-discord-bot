@@ -1,5 +1,5 @@
 # discord-uptime-client
-A simple, easy-to-use uptime client-like bot for Discord!
+A simple, easy to use, uptime status bot for Discord!
 
 ## Deployment
 
@@ -22,4 +22,8 @@ A simple, easy-to-use uptime client-like bot for Discord!
 
 ### Linux
 
-* I will add basic setup soon!
+* `git clone https://github.com/aerobotpro/site-status-discord-bot.git`
+* Edit Your `config.py`
+* Start bot.py
+* Done!
+* ALSO, you can run `build.sh` to create a python3 executable

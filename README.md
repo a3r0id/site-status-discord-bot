@@ -13,10 +13,10 @@ A simple bot for periodically checking your website's stats including port used 
 ![](https://cdn.discordapp.com/attachments/662110077955604481/663853562643742760/public.png)
 
 ### Admin Updates
-![](https://cdn.discordapp.com/attachments/662110077955604481/663853585045651477/admin_notification.png)
+![](https://media.discordapp.net/attachments/662110077955604481/663853599989825556/admin.png?width=609&height=474)
 
 ### Error Notifications
-![](https://media.discordapp.net/attachments/662110077955604481/663853599989825556/admin.png?width=609&height=474)
+![](https://cdn.discordapp.com/attachments/662110077955604481/663853585045651477/admin_notification.png)
 
 -------------------------------------------------
 

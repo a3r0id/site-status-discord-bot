@@ -31,7 +31,7 @@ A simple bot for periodically checking your website's stats including port used 
 * Important: *You need to be sure all files remain in the same folder at all times.*
 * Important: *Emojis/Special Fonts in your channel names may cause issues! You will be prompted if so.*
 
-
+-------------------------------------------------
 
 ### Linux
 

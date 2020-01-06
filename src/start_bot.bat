@@ -1,0 +1,3 @@
+@echo off
+set /p leave=Hit ENTER to START BOT...
+python bot.py

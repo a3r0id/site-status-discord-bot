@@ -4,9 +4,9 @@ A simple, easy to use, uptime status bot for Discord!
 ## Deployment
 
 * Windows 10/8/7
-  * [Setup](#)
+  * [Setup](https://github.com/aerobotpro/site-status-discord-bot#windows-1087)
 * Linux
-  * Setup support docs coming soon.
+  * [Setup](https://github.com/aerobotpro/site-status-discord-bot#linux)
 
 
 

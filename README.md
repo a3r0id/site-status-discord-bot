@@ -1,6 +1,8 @@
 # discord-uptime-client
 A simple bot for periodically checking your website's stats including port used on http request, http request latency, http status code & more from almost any remote machine using Python3 requests module.
+
 -------------------------------------------------
+
 ## Deployment
 * Windows 10/8/7
   * [Setup](https://github.com/aerobotpro/site-status-discord-bot#windows-1087)

@@ -4,7 +4,7 @@ from time import sleep
 try:
     from config import data
 except Exception as oof:
-    ex=input(f"Error in Config File, Please fix then try again. Be sure that all files are in the same directory and that your 'token.txt' file is there as well.\n\n{str(oof)}")
+    ex=input(f"Error in Config File, Please fix then try again. Be sure that all files are in the same directory and that your 'token.txt' file is there as well.\n\nError: {str(oof)}")
     exit(0)
 from client_hook import logging
 from host_check import host

@@ -27,8 +27,8 @@ A simple bot for periodically checking your websites stats including port used o
 
 * Install Python3 (3.6+) - [Latest: Install Python3 on Windows 10](https://www.youtube.com/watch?v=V_ACbv4329E)
 * Important: *Be sure to add Python3 to your PATH upon installation!!!*
-* Extract contents of `discord-uptime-client` to the folder of your choice but remember that folder.
-* Extract contents of `windows` to the folder thats contains our bot files. Should be `start_bot.bat` & and install_requirements.bat`
+* Extract contents of `discord-uptime-client` to the folder of your choice.
+* pip install discord.py
 * Open `config.py` and change the contents to your bot's information.
 * Make sure that the channels can be accessed by your bot on Discord (Valid Permissions)
 * Start Bot by double-clicking `start_bot.py`.
@@ -40,6 +40,7 @@ A simple bot for periodically checking your websites stats including port used o
 ### Linux
 
 * `git clone https://github.com/aerobotpro/site-status-discord-bot.git`
+* pip install discord.py
 * Edit Your `config.py`
 * Start bot.py
 * Done!

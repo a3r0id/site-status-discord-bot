@@ -39,7 +39,7 @@ A simple bot for periodically checking your websites stats including port used o
 
 ### Linux
 
-* `git clone https://github.com/aerobotpro/site-status-discord-bot.git`
+* `git clone https://github.com/hostinfodev/site-status-discord-bot.git`
 * pip install discord.py
 * Edit Your `config.py`
 * Start bot.py

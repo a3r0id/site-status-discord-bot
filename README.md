@@ -33,7 +33,7 @@ A simple bot for periodically checking your website's stats including request la
 * Make sure that the channels can be accessed by your bot on Discord (Valid Permissions)
 * Start Bot by double-clicking `start_bot.py`.
 * Important: *You need to be sure all files remain in the same folder at all times.*
-* Important: *Emojis/Special Fonts in your channel names may cause issues! You will be prompted if so.*
+* Important: *Emojis/Special characters in your channel names may cause issues! You will be prompted if so.*
  
 ------------------------------------------------- 
  

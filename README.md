@@ -1,14 +1,10 @@
 # discord-uptime-client
 A simple bot for periodically checking your website's stats including request latency, http status code & more from any remote machine using Python3 requests module. Great for DevOps teams who use Discord.
 
-
 -------------------------------------------------
 
-## Deployment
-* Windows 10/8/7
-  * [Setup](https://github.com/aerobotpro/site-status-discord-bot#windows-1087)
-* Linux
-  * [Setup](https://github.com/aerobotpro/site-status-discord-bot#linux)
+## [Setup](https://github.com/aerobotpro/site-status-discord-bot)
+
 -------------------------------------------------
 ## Some Pics
 
@@ -23,9 +19,9 @@ A simple bot for periodically checking your website's stats including request la
 
 -------------------------------------------------
 
-### Windows 10/8/7
+### Setup
 
-* Install Python3 (3.6+) - [Latest: Install Python3 on Windows 10](https://www.youtube.com/watch?v=V_ACbv4329E)
+* Install Python3
 * Important: *Be sure to add Python3 to your PATH upon installation!!!*
 
 * pip install discord.py
